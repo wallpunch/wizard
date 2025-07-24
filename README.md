@@ -2,8 +2,8 @@
 
 Simple proof-of-concept. The end goal is to create a tool that users in different countries and network environments can use to answer common questions:
 1. Is my internet being censored or just not working normally?
-2. If it's not working normally, what exactly is the issue?
-3. If it's being censored, how can I circumvent it?
+2. What censorship methods are being used?
+3. What circumvention methods can get around the censorship?
 
 ## Usage
 
